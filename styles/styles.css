@@ -1,0 +1,56 @@
+.vertical ul li{
+font-family: Calibri;
+font-size: 17px;
+list-style-type: none;
+}
+.after-title{
+  padding: 15px 0 0 0;
+}
+
+.page-title li{
+  font-size: 50px;
+  font-weight: bold;
+}
+.homepage{
+  background: #3f414d;
+  border-bottom: 1px solid #fff;
+  padding: 20px 0 20px 20px;
+  color: white;
+}
+ body{
+  
+   color: black;
+   font-size: 22px;
+ }
+h1{
+      padding: 20px 0 20px 0;
+}
+#content{
+  background-color:#EBECF0;
+  padding: 20px 10px 0 10px;
+}
+.vertical-title{
+  padding: 0 0 0 20px;
+}
+
+li a:hover{
+  color: #666666;
+text-decoration:underline;
+}
+a:link,a:visited{
+  color: black;
+}
+.verticalText {
+word-wrap: break-word;
+  font-size: 18px;
+}
+.mydiv {
+  height: 300px;
+  width: 10px;
+}
+.arrows{
+  width: 1em;
+  padding-left: 20px;
+  padding-top:15px;
+  padding-right: 7px;
+}
